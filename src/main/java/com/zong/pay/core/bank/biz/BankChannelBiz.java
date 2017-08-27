@@ -1,4 +1,4 @@
-package com.zong.pay.core.bank.bix;
+package com.zong.pay.core.bank.biz;
 
 import com.zong.pay.common.core.biz.BaseBizImpl;
 import com.zong.pay.common.core.dao.BaseDao;
